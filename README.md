@@ -1,5 +1,5 @@
 ## 100 Days of Python - Day 4 Final Project
-# Rock Paper Scissors
+### Rock Paper Scissors
 
 This is a computer-based game of Rock, Paper, Scissors. Duel it out against a randomly generating "hand" to see who the champion is! The code does not have thorough error validation, to keep in line with the 100 days of code course.
 
